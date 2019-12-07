@@ -11,3 +11,7 @@
 [3D建模、处理软件及部分算法库简介](https://blog.csdn.net/ruibin_cao/article/details/89011000)
 
 [玩玩三维重建](http://planckscale.info/tag/3d重建/)
+
+[三维重建初探(整理的一些资料及论文分享)](https://www.jianshu.com/p/f33b3d440f7d)
+
+[3D重建：硬派几何求解vs深度学习打天下？](https://baijiahao.baidu.com/s?id=1638472363380388763&wfr=spider&for=pc)
