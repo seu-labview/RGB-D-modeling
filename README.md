@@ -9,3 +9,5 @@
 [三维重建 3D reconstruction 有哪些实用算法](https://www.zhihu.com/question/29885222?sort=created)
 
 [3D建模、处理软件及部分算法库简介](https://blog.csdn.net/ruibin_cao/article/details/89011000)
+
+[玩玩三维重建](http://planckscale.info/tag/3d重建/)
