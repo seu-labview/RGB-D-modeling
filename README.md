@@ -18,4 +18,6 @@
 
 # 硬件选择、环境搭建与驱动安装
 
-[乐视电视三合一体感摄像头](https://item.taobao.com/item.htm?id=553754158770)
+我们选择了最便宜的RGBD摄像头[乐视电视三合一体感摄像头](https://item.taobao.com/item.htm?id=553754158770)，只要139元。
+
+
