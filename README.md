@@ -15,3 +15,7 @@
 [三维重建初探(整理的一些资料及论文分享)](https://www.jianshu.com/p/f33b3d440f7d)
 
 [3D重建：硬派几何求解vs深度学习打天下？](https://baijiahao.baidu.com/s?id=1638472363380388763&wfr=spider&for=pc)
+
+# 硬件选择、环境搭建与驱动安装
+
+[乐视电视三合一体感摄像头](https://item.taobao.com/item.htm?id=553754158770)
