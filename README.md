@@ -20,4 +20,10 @@
 
 我们选择了最便宜的RGBD摄像头[乐视电视三合一体感摄像头](https://item.taobao.com/item.htm?id=553754158770)，只要139元。
 
+安装ubuntu20.04，ROS2 foxy。
+
+[乐视电视三合一体感摄像头官网SDK](https://orbbec3d.com/develop/)
+
+[在Ubuntu 中 编译Orbbec Astra（奥比中光）RGBD sdk中samples的采坑手记](https://blog.csdn.net/yzlh2009/article/details/96896457)
+
 
